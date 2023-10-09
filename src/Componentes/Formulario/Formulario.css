@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2? família= Mitr:peso@500 & display=swap');
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 80px 0px;
+    font-family:'Mitr', sans-serif;
+    font-weight: bold;
+
+}
+.formulario form {
+    max-width: 80%;
+    background-color: #84B6F4;
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0, 0 ,0, 0.08);
+    border-style: solid;
+    border-width: 2px; 
+    border-color: black;
+}

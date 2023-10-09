@@ -1,0 +1,13 @@
+.banner {
+    background-color: #F2D4D8;
+    text-align: center
+    
+
+}
+.banner img {
+    max-width: 50%;
+    max-height: 20vh;
+    height: 45vh;
+    margin: auto;
+ 
+}
